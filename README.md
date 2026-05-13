@@ -1,7 +1,7 @@
 # CineSpoilers 🎬
 
 Proyecto base desarrollado con **React + TypeScript + Vite**.  
-Primera aplicación React como parte del aprendizaje de Programación Empresarial — Tecsup.
+Primera aplicación React como parte del aprendizaje de Programación Aplicacione Empresariales — Tecsup.
 
 ---
 
@@ -26,4 +26,4 @@ Primera aplicación React como parte del aprendizaje de Programación Empresaria
 
 ## 👨‍💻 Autor
 
-**Garcia Silva Xiomara** — Tecsup, 4to ciclo · Programación Empresarial
+**Garcia Silva Xiomara** — Tecsup, 4to ciclo · Programación Aplicacione Empresariales
