@@ -1,7 +1,9 @@
+import Profile from './components/Profile'
+
 function App() {
   return (
     <div>
-      <h1>CineSpoilers 🎬</h1>
+      <Profile />
     </div>
   )
 }
